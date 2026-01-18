@@ -1,3 +1,4 @@
+
 # Člověče, nezlob se 1D
 
 1. Zjednodušené "Člověče, nezlob se" se hraje na hracím plánu velikosti **10** polí pouze s jednou figurkou. 
