@@ -7,7 +7,7 @@
     <style>
     body {
         font-family: Verdana, sans-serif; /* písmo */
-        margin: 64px; /* mezery */
+        margin: 64px; /* odsazení obsahu od okrajů ve všech 4 směrech */
     }
     </style>
 </head>
